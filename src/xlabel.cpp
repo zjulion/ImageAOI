@@ -1,4 +1,11 @@
-﻿#include "xlabel.h"
+﻿/*************************************** 
+* 
+* LanXin TECH, All Rights Reserverd. 
+* Contributor: Ling Shi, Ph.D 
+* Email: lshi@robvision.cn 
+* 
+***************************************/ 
+#include "xlabel.h"
 
 #include <QMouseEvent>
 #include <QPainter>

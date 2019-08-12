@@ -1,4 +1,11 @@
-﻿#ifndef XLABEL_H
+﻿/*************************************** 
+* 
+* LanXin TECH, All Rights Reserverd. 
+* Contributor: Ling Shi, Ph.D 
+* Email: lshi@robvision.cn 
+* 
+***************************************/ 
+#ifndef XLABEL_H
 #define XLABEL_H
 
 #include <QLabel>
