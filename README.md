@@ -9,3 +9,8 @@
 
 ## Reference (Appreciation)
 [ImageCropper](https://github.com/dimkanovikov/ImageCropper)
+
+License
+-------------
+
+[GNU LGPL v3](http://www.gnu.org/copyleft/lesser.html)
